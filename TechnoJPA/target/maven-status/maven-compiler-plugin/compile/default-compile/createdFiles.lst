@@ -1,0 +1,15 @@
+az\perfect\dao\inter\CountryDaoInter.class
+az\perfect\dao\inter\CategoryDaoInter.class
+az\perfect\entity\Country_.class
+az\perfect\entity\Product.class
+az\perfect\dao\impl\ProductDaoImpl.class
+az\perfect\entity\Category.class
+az\perfect\entity\Product_.class
+az\perfect\config\AbstractDao.class
+az\perfect\entity\Category_.class
+az\perfect\entity\Country.class
+az\perfect\main\Main.class
+az\perfect\dao\impl\CountryDaoImpl.class
+az\perfect\config\Context.class
+az\perfect\dao\impl\CategoryDaoImpl.class
+az\perfect\dao\inter\ProductDaoInter.class
